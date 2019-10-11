@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="vendor/MiuiCamera"
+name="kirillinda/vendor_MiuiCamera"
+revision="pie-nitrogen" />
+<project path="vendor/xiaomi/nitrogen"
+name="kirillinda/vendor_xiaomi_nitrogen"
+revision="pie" />
+</manifest>

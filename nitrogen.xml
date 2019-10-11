@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/xiaomi/nitrogen"
+name="kirillinda/device_xiaomi_nitrogen"
+revision="pie-lineage" />
+<project path="kernel/xiaomi/nitrogen"
+name="kirillinda/kernel_xiaomi_nitrogen"
+revision="hybris-16.0" />
+<project path="rpm/"
+name="kirillinda/droid-hal-nitrogen" revision="master" />
+<project path="hybris/droid-configs"
+name="kirillinda/droid-config-nitrogen" revision="master" />
+<project path="hybris/droid-hal-version-nitrogen"
+name="kirillinda/droid-hal-version-nitrogen" revision="master" />
+</manifest>
